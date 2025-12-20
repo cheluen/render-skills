@@ -1,0 +1,10 @@
+{
+  "mode": "json",
+  "default_profile": "default",
+  "profiles": {
+    "default": {
+      "api_key": "rnd_YOUR_API_KEY_HERE",
+      "description": "Default profile"
+    }
+  }
+}
